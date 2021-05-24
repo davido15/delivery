@@ -1,0 +1,6 @@
+<testsuites name="jest tests">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-05-24T23:52:56" time="6.29" tests="1">
+    <testcase classname=" renders without crashing" name=" renders without crashing" time="3.125">
+    </testcase>
+  </testsuite>
+</testsuites>
